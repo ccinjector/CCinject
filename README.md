@@ -51,7 +51,6 @@
 ## 下载与安装
 
 - **官网**：前往 [http://cc-inject.com](https://cc-inject.com) 获取最新版本
-- **方式二（直链）**：下载 [APK](https://your-cdn.example.com/cc-inject.apk) 并手动安装
 - **二维码**：在官网“下载”板块点击“扫码下载”即可
 
 安装提示：
