@@ -1,4 +1,4 @@
-# CCinject
+# CC云注入
 [![Release](https://img.shields.io/badge/release-v1.2.0-5b8cff)](./releases)
 [![Platform](https://img.shields.io/badge/platform-Android-22d3ee)](#系统要求)
 [![License](https://img.shields.io/badge/license-TBD-informational)](#许可证)
